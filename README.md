@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinipux28" alt="vinipux28" /></a> </p>
 
-- 🔭 I’m currently working on [Dotlink](https://github.com/vinipux28/DotLink)
+- 🔭 I’m currently working on [Dotlink](https://github.com/vinipux28/DotLink) and [Synthi IDE](https://github.com/AMKolev22/synthi-ide)
 
-- 🌱 I’m currently learning **ASP.NET, Java**
+- 🌱 I’m currently learning: **ASP.NET, Java**
 
-- I’m currently working on [Synthi IDE](https://github.com/AMKolev22/synthi-ide)
+- 👨‍💻 All of my projects are available at: [Coming soon...](Coming soon...)
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 📫 How to reach me: **Any social media on this page**
 
-- 📫 How to reach me **Any social media on this page**
-
-- ⚡ Fun fact **C# is C hashtag**
+- ⚡ Fun fact: **C# is C hashtag**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
