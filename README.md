@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/vinipux28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vinipux28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksandr-vinichenko-4137a2379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aleksandr-vinichenko-4137a2379/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandr-vinichenko-4137a2379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aleksandr-vinichenko-4137a2379/" height="30" width="40" /></a>
 <a href="https://instagram.com/vinipux28_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinipux28_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinipux28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinipux28" height="30" width="40" /></a>
 </p>
