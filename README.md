@@ -30,18 +30,27 @@
     <a href="https://github.com/vinipux28">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinipux28&show_icons=true&locale=en&theme=dark&v=6&include_all_commits=true&count_private=true&layout=compact" alt="vinipux28" />
     </a>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <a href="https://github.com/VOOleksandrov22">
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=VOOleksandrov22&show_icons=true&locale=en&theme=dark&v=6&acc=2&include_all_commits=true&count_private=true&layout=compact" alt="VOOleksandrov22" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=VOOleksandrov22&show_icons=true&locale=en&theme=dark&v=6&acc=2&include_all_commits=true&count_private=true&layout=compact" alt="VOOleksandrov22" />
     </a>
     <br clear="both"/>
     
-  <div align="right" style="margin-top: -30px; margin-right: 5px;">
+  <div align="left" style="margin-top: -30px; margin-right: 5px;">
       <span style="font-size: 12px; color: #a9a9a9;">(second account)</span>
   </div>
 
   <br clear="all"/>
 
   <a href="https://github.com/vinipux28">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinipux28&show_icons=true&locale=en&layout=compact&theme=dark&v=6include_all_commits=true&count_private=true" alt="vinipux28" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinipux28&show_icons=true&locale=en&layout=compact&theme=dark&v=6include_all_commits=true&count_private=true" alt="vinipux28" />
   </a>
 </div>
