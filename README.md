@@ -28,7 +28,7 @@
 
 <div align="center">
     <a href="https://github.com/vinipux28">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinipux28&show_icons=true&locale=en&theme=dark&v=6&include_all_commits=true&count_private=true&layout=compact" alt="vinipux28" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinipux28&show_icons=true&locale=en&theme=dark&v=7&include_all_commits=true&count_private=true&layout=compact" alt="vinipux28" />
     </a>
     <br />
     <br />
@@ -40,7 +40,7 @@
     <br />
     <br />
     <a href="https://github.com/VOOleksandrov22">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=VOOleksandrov22&show_icons=true&locale=en&theme=dark&v=6&acc=2&include_all_commits=true&count_private=true&layout=compact" alt="VOOleksandrov22" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=VOOleksandrov22&show_icons=true&locale=en&theme=dark&v=7&acc=2&include_all_commits=true&count_private=true&layout=compact" alt="VOOleksandrov22" />
     </a>
     <br clear="both"/>
     
